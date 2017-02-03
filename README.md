@@ -1,5 +1,9 @@
 ## Welcome to GitHub Pages
 
+---
+layout:new file
+---
+
 [New File](/testing/newfile.html)
 
 np
